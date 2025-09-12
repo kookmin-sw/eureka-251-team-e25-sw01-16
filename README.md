@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
-# Welcome to ○팀
+# Welcome to 16팀
 
 ## 1️⃣ 팀원 소개
 
@@ -15,11 +15,12 @@
 
 ### 팀 슬로건
 
-팀 슬로건을 작성합니다.
+for 꿈 in 도전:
+  print("함께라면 이룰 수 있다!")
 
 ### 팀 소개
 
-팀의 소개를 작성합니다.
+코딩은 잘 모르지만 팀장 이찬우입니다.
 
 ***
 
