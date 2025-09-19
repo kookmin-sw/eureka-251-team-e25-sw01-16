@@ -93,10 +93,6 @@ NFC기능으로 결재나 인식 기술 등이 가능함.
 
 기술의 빠른 발전 속도에 놀라움을 느끼며, 과거에 상상했던 것들이 현실이 된 지금, 앞으로의 혁신적인 아이디어들도 일상 속에서 실현될 것이라는 기대가 커지고 있다.
 
-<!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
 
 ***
 
