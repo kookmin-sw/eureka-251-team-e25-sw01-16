@@ -119,8 +119,8 @@ print("우린 배움과 열정으로 성장하는 팀입니다!")
 ### 우리가 그린 2040 / 2050년의 모습 속에서 나는 어떠한 모습으로 생활을 하고 있을까요?
 미래에는 AI와 로봇이 우리의 일상 전반에 깊숙이 관여하며, 사람과 협력하는 삶이 보편화될 것입니다. 디스플레이를 통해 주택의 기능을 효율적으로 제어하고, 하늘을 나는 자동차로 자유롭게 이동하며, 첨단 기술을 자연스럽게 활용하는 편리하고 스마트한 생활이 펼쳐질 것으로 기대됩니다.
 
-<img width="500" height="2245" alt="제목 없는 디자인" src="https://github.com/user-attachments/assets/13fe1bbf-df11-4649-be4a-5eba362087e5" />
-https://drive.google.com/file/d/1S4XIZ5vXknrKlDAS_V8cKHCIPsr_fUEQ/view?usp=sharing
+<img width="1587" height="2245" alt="단락 텍스트" src="https://github.com/user-attachments/assets/9bf85087-7eff-403c-b96f-1e34dc1647d5" />
+https://drive.google.com/file/d/1yhfJo4AQvI1ypdDPxz-tKiiln4LGwGFv/view?usp=sharing
 
 ## 4️⃣ 인상 깊은 활동
 
